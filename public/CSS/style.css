@@ -1,0 +1,68 @@
+/* * {
+    margin: 0;
+}
+
+.main {
+     width: 100vw;
+}
+
+.center {
+    width: 80%;
+    margin: auto;
+}
+
+.center h1,
+.center h2,
+.center p {
+    margin-bottom: 10px;
+} */
+
+
+
+/* 
+* {
+    margin: 0;
+}
+
+ui {
+    list-style: none;
+    background-color: rgb(6, 6, 221);
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    background-color: blue;
+}
+
+li:hover {
+    background-color: navy;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    border-bottom: 5px solid white;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+} */
+
+
+
+.background {
+    background: linear-gradient(to left, blue,blueviolet,navy)
+}

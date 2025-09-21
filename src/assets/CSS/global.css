@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.center h1,
+.center h2,
+.center p {
+    margin-buttom: 10px;
+}
